@@ -3,7 +3,7 @@
       <router-view class="router-view"/>
     <pop-up  v-model="showQrcode" style="text-align: center">
       <img class="qrcode" src="./assets/qrcode.png" alt="qrcode">
-      <div class="slogan">微信扫描二维码👆<br/>在手机上使用体验✨</div>
+      <div class="slogan">可微信扫描二维码体验👆<br/>点击图片外区域可关闭二维码✨</div>
     </pop-up>
   </div>
 </template>
