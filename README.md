@@ -20,7 +20,7 @@
 ![](src/assets/qrcode.png)
 
 
-## 项目开发运行
+## 项目开发需运行
 
 ```
     yarn install
